@@ -1,0 +1,6 @@
+{
+  "name": "jira",
+  "version": "0.1.0",
+  "description": "Jira Cloud operations for Kiao agents",
+  "targets": ["codex", "claude"]
+}
